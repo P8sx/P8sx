@@ -16,6 +16,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain.svg" width="64" height="64"/>
   <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool.svg" width="64" height="64"/>
+  <br>
+  and many more that i used over that are not listed here
 </p>
+
+
+
 What do you expect more? I like short answers so up there you have it. If it is not sufficient just contact me 😄
 
