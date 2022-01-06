@@ -29,6 +29,6 @@
 </br>
 <a href="https://devicon.dev/">Programming icon by Devicon</a>
 </br>
-<a href="https://influxdata.github.io/branding/logo/downloads/">Influx icon by Devicon</a>
+<a href="https://influxdata.github.io/branding/logo/downloads/">Influx icon</a>
 </p>
 </details> 
