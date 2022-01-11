@@ -1,7 +1,7 @@
 # 👋 Hi, I’m P8sx
 #### Fan of simplifying and automating everything around, currently student of Computer Science, 7th term.
 
-- 👀 I’m interested: in software(.NET C# and Embedded C/C++)/hardware development
+- 👀 I’m interested: in software(.NET C# ,C/C++)/hardware development
 - 🌱 I’m currently learning: anything that i find useful
 - 📫 How to reach me: gitcontact@phsx.pl
 
