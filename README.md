@@ -1,5 +1,5 @@
 # 👋 Hi, I’m P8sx
-#### Fan of simplifying and automating everything around, currently student of Computer Science, 7th term.
+#### Fan of simplifying and automating everything around.
 
 - 👀 I’m interested: in software(.NET C# ,C/C++)/hardware development
 - 🌱 I’m currently learning: anything that i find useful
